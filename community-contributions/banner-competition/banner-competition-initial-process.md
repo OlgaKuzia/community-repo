@@ -15,7 +15,7 @@ The original bounty GitHub issue: https://github.com/Joystream/community-repo/is
 - A complete PR
 - A properly formatted forum post (the format will be clearly shown in the forum thread created for this competition)
 - To participate in voting, users must have a Discord account and be a member of the Joystream Discord server
-
+и тчт чіпт
 ### Rewards
 - The first 10 users to submit a valid entry into this competition will recieve 150k tokens (limit one per user)
 - Once the deadline is reached, the entries will be closed.

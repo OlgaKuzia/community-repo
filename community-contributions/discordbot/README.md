@@ -15,7 +15,7 @@ Go to Discord's [bot portal](https://discordapp.com/developers/applications/) an
 
 	![Client ID and Secret](images/bot2.jpg)
 
-So far, what you have is a simple application.
+So far, what you have is a simple application.вампдґШИМАЖщшгврмпж
 
 You click on the Bot tab under settings to your left, and click on the "add a bot button". 
 
