@@ -6,3 +6,4 @@ sh -c "$(wget -q https://raw.githubusercontent.com/Joystream/community-repo/mast
 ```
 
 Script will install the node. At the end of the installation, it will ask you what to name your node.   
+new changes
